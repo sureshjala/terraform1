@@ -3,5 +3,4 @@ variable "cidr_range" {
 }
 variable "region" {
     region = string
-  
 }
